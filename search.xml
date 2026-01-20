@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这是一个测试</title>
+    <title>周末爬山</title>
     <url>/2026/01/14/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<hr>
 <h1 id="1-标题1"><a href="#1-标题1" class="headerlink" title="1.标题1"></a>1.标题1</h1><p><em><strong>这是一个测试的内容！！</strong></em></p>
 <h2 id="2-标题2"><a href="#2-标题2" class="headerlink" title="2.标题2"></a>2.标题2</h2><p><em><strong>这是一个测试的内容！！</strong></em></p>
 <h3 id="3-标题3"><a href="#3-标题3" class="headerlink" title="3.标题3"></a>3.标题3</h3><h2 id="这是一个测试的内容！！"><a href="#这是一个测试的内容！！" class="headerlink" title="这是一个测试的内容！！"></a><em><strong>这是一个测试的内容！！</strong></em></h2>]]></content>
+      <categories>
+        <category>生活日常</category>
+      </categories>
+      <tags>
+        <tag>爬山</tag>
+      </tags>
   </entry>
 </search>
